@@ -1,0 +1,21 @@
+userName: YOUR_USER_NAME
+accessKey: YOUR_ACCESS_KEY
+framework: robot
+platforms:
+  - deviceName: iPhone 14 Pro
+    osVersion: 16
+    browserName: safari
+    deviceOrientation: portrait
+  - os: OS X
+    osVersion: Ventura
+    browserName: Safari
+    browserVersion: 16.5
+  - os: OS X
+    osVersion: Big Sur
+    browserName: Safari
+    browserVersion: 14.1
+parallelsPerPlatform: 1
+browserstackLocal: true
+seleniumVersion: 4.11.0
+buildName: grandel-browserstack-robot
+projectName: BrowserStack Sample

@@ -1,0 +1,6 @@
+robotframework
+robotframework-seleniumlibrary
+robotframework-pabot
+browserstack-local
+selenium
+browserstack-sdk
